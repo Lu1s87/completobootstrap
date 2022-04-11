@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, rgb(245, 236, 194), white);
+}
+
+header{
+
+    background-color: white;
+}
+
+footer{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 15px;
+}
+
+main{
+    margin-top: 30px;
+}
+
+.redes{
+    margin-top: 30px;
+}
